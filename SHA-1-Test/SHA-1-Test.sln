@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SHA-1-Test", "SHA-1-Test\SHA-1-Test.vcxproj", "{86ABC2A0-EE16-4371-A69E-80C4EA754459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Debug|x64.ActiveCfg = Debug|x64
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Debug|x64.Build.0 = Debug|x64
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Debug|x86.ActiveCfg = Debug|Win32
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Debug|x86.Build.0 = Debug|Win32
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Release|x64.ActiveCfg = Release|x64
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Release|x64.Build.0 = Release|x64
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Release|x86.ActiveCfg = Release|Win32
+		{86ABC2A0-EE16-4371-A69E-80C4EA754459}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E63D61-B407-4359-950F-A00D85E5F8C1}
+	EndGlobalSection
+EndGlobal
